@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1521565681 source:c:\users\laptop\desktop\aaaa\flipkart_opponent\main.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<time.h>
+	"accounts.h"
+
+1521564787 source:c:\users\laptop\desktop\aaaa\flipkart_opponent\accounts.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"accounts.h"
+
+1521560540 c:\users\laptop\desktop\aaaa\flipkart_opponent\accounts.c
+	<stdio.h>
+	<stdlib.h>
+	"accounts.h"
+
+1521564657 c:\users\laptop\desktop\aaaa\flipkart_opponent\accounts.h
+	<stdio.h>
+	<stdlib.h>
+
